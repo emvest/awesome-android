@@ -49,6 +49,15 @@
  * [ElasticView](https://github.com/armcha/ElasticView)
  * [sweet-alert-dialog](https://github.com/F0RIS/sweet-alert-dialog)
  * [ElegantDialog](https://github.com/muigukenneth/ElegantDialog)
+ * [timelineview-v2](https://github.com/andob/timelineview-v2)
+ * [Pinview](https://github.com/GoodieBag/Pinview)
+ * [GalleryPicker](https://github.com/tizisdeepan/GalleryPicker)
+ * [PieProgress](https://github.com/tizisdeepan/PieProgress)
+ * [EventsCalendar](https://github.com/tizisdeepan/EventsCalendar)
+ * [VideoEditor](https://github.com/tizisdeepan/VideoEditor)
+ * [MotionToast](https://github.com/Spikeysanju/MotionToast)
+ * [NiceBottomBar](https://github.com/ibrahimsn98/NiceBottomBar)
+ * [Timeline-View](https://github.com/vipulasri/Timeline-View)
 
 ## Awesome Projects
  * [Tivi](https://github.com/chrisbanes/tivi)
@@ -62,6 +71,8 @@
  * [MarvelHeroes](https://github.com/skydoves/MarvelHeroes)
  * [Dimba](https://github.com/odaridavid/Dimba)
  * [TheMovies](https://github.com/skydoves/TheMovies)
+ * [Mini-Notes-App-Realm](https://github.com/Spikeysanju/Mini-Notes-App-Realm)
+ * [rugby-ranker](https://github.com/ricknout/rugby-ranker)
 
 ## Awesome Compose 
  * [JetDelivery](https://github.com/vipulasri/JetDelivery)
@@ -72,5 +83,7 @@
 
  * [KotlinMultiplatformSample](https://github.com/armcha/KotlinMultiplatformSample)
 
+ * [kotlin-mvvm-covid19](https://github.com/rizmaulana/kotlin-mvvm-covid19)
 
  * [Helium](https://github.com/joaquim-verges/Helium)
+ * [Scarlet](https://github.com/Tinder/Scarlet)
